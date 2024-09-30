@@ -30,9 +30,9 @@
     <h2>Installation</h2>
     <ol>
         <li>Clone the repository:</li>
-        <pre><code>git clone https://github.com/yourusername/product-landing-page.git</code></pre>
+        <pre><code>git clone https://github.com/EmanAhmed55/Product-Landing-Page.git</code></pre>
         <li>Navigate to the project directory:</li>
-        <pre><code>cd product-landing-page</code></pre>
+        <pre><code>cd Product-Landing-Page</code></pre>
         <li>Open <code>index.html</code> in your browser.</li>
     </ol>
     <h2>Usage</h2>
