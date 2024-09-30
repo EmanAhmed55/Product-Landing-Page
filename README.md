@@ -43,9 +43,5 @@
     <p>
         Contributions are welcome! Please submit a pull request with your changes.
     </p>
-    <h2>License</h2>
-    <p>
-        This project is licensed under the MIT License.
-    </p>
 </body>
 </html>
