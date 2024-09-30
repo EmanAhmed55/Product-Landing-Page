@@ -3,15 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product Landing Page</title>
 </head>
 <body>
     <h1>Product Landing Page</h1>
     <h2>Description</h2>
     <p>
         This project is a responsive product landing page built using HTML, CSS, and JavaScript. It showcases a product and provides users with essential information and call-to-action elements.
-    </p>
-    
+    </p>    
     <h2>Features</h2>
     <ul>
         <li>Responsive design for mobile and desktop</li>
@@ -19,14 +17,12 @@
         <li>User-friendly navigation</li>
         <li>JavaScript for interactive elements</li>
     </ul>
-
     <h2>Technologies Used</h2>
     <ul>
         <li>HTML</li>
         <li>CSS</li>
         <li>JavaScript</li>
     </ul>
-
     <h2>Getting Started</h2>
     <p>
         To view the landing page, simply open the <code>index.html</code> file in your web browser.
