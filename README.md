@@ -8,7 +8,7 @@
     <h1>Product Landing Page</h1>
     <h2>Description</h2>
     <p>
-        This project is a responsive product landing page built using HTML, CSS, and JavaScript. It showcases a product and provides users with essential information and call-to-action elements.
+        This project is a responsive product landing page built using HTML, CSS, and JavaScript. It showcases a product and provides users with essential information.
     </p>    
     <h2>Features</h2>
     <ul>
@@ -27,7 +27,6 @@
     <p>
         To view the landing page, simply open the <code>index.html</code> file in your web browser.
     </p>
-
     <h2>Installation</h2>
     <ol>
         <li>Clone the repository:</li>
@@ -36,17 +35,14 @@
         <pre><code>cd product-landing-page</code></pre>
         <li>Open <code>index.html</code> in your browser.</li>
     </ol>
-
     <h2>Usage</h2>
     <p>
         Customize the product details in the HTML file, style with CSS, and add interactivity using JavaScript.
     </p>
-
     <h2>Contributing</h2>
     <p>
         Contributions are welcome! Please submit a pull request with your changes.
     </p>
-
     <h2>License</h2>
     <p>
         This project is licensed under the MIT License.
